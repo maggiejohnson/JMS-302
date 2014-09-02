@@ -1,0 +1,33 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1247" measuredH="671" mockupW="1247" mockupH="671">
+  <controls>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="0" w="586" h="671" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Unblight%20-%20A%20National%20Conference%0Ahttp%3A//unblight-macon.org%0A%20%0A%20%0A%20%0A%20%0A%20%0A%20%0A%20%0A%20%0A%20%0A%20%0A%20%0A%20%0A%20%0A%20%0A%20%0A%20%0AUnblight%20is%20a%20national%20initiative%20to%20%0Abring%20life%20back%20to%20abandoned%20and%20%0Alifeless%20urban%20areas.</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Image" x="85" y="187" w="327" h="79" measuredW="77" measuredH="79" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>unblight%20macon</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::SiteMap" x="639" y="0" w="-1" h="-1" measuredW="608" measuredH="310" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Home%0A-%20Our%20Mission%0A--%20National%20Initiatives%0A--%20Macon%20Area%0A-%20About%20Us%0A--%20Contact%0A-%20Photos%0A-%20Donate</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Title" x="108" y="86" w="-1" h="-1" measuredW="281" measuredH="43" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Unblight%20Macon</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::VSlider" x="499" y="143" w="-1" h="108" measuredW="11" measuredH="33" zOrder="4" locked="false" isInGroup="-1"/>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::LinkBar" x="136" y="129" w="-1" h="-1" measuredW="225" measuredH="19" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Home%2C%20About%20Us%2C%20Photos%2C%20Donate</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::VSplitter" x="159" y="161" w="178" h="-1" measuredW="100" measuredH="11" zOrder="6" locked="false" isInGroup="-1"/>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::VideoPlayer" x="100" y="364" w="-1" h="-1" measuredW="300" measuredH="200" zOrder="7" locked="false" isInGroup="-1"/>
+  </controls>
+</mockup>
